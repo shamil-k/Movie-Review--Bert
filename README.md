@@ -3,17 +3,26 @@ we did a sentiment analysis model with bert
 
 Sentiments Classifier using BERT
 
-PROBLEM STAEMENT
+PROBLEM STAEMENT:
+
 In this project we will be building a sentiment classifier using the bert pretained model. The dataset we will be using will be IMDB movie reviews datset.
+
+
 DESCRIPTION OVERVIEW
+
+
 The process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral. Understanding people’s emotions is essential for businesses since customers are able to express their thoughts and feelings more openly than ever before. By automatically analyzing customer feedback, from survey responses to social media conversations, brands are able to listen attentively to their customers, and tailor products and services to meet their needs.
 Sentiment analysis, however, helps businesses make sense of all this unstructured text by automatically tagging it. Sentiment analysis uses various Natural Language Processing (NLP) methods and algorithms, which we’ll go over in more detail in this section.
 The main types of algorithms used include:
+
+
 	•	Rule-based systems that perform sentiment analysis based on a set of manually crafted rules.
 	•	Automatic systems that rely on machine learning techniques to learn from data.
 	•	Hybrid systems that combine both rule-based and automatic approaches.
 
 Sentiment analysis can be used for varous applications like :
+
+
 	•	Social media monitoring
 	•	Brand monitoring
 	•	Voice of customer (VoC)
