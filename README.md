@@ -1,5 +1,4 @@
 # Movie-Review--Bert
-we did a sentiment analysis model with bert
 
 Sentiments Classifier using BERT
 
@@ -56,9 +55,13 @@ To do the test testing we need to run the clientApp.py and after that web server
 
 Enter the review or reviews and click on predict
 After clicking predict
+
+
 <img width="1439" alt="Screenshot 2021-05-27 at 2 53 31 PM" src="https://user-images.githubusercontent.com/55822384/119801492-6249bb00-befb-11eb-8a2d-c4201c7084fd.png">
 
 CONCLUSION
+
+
 Here we successfully performed sentiment analysis and analyzed the reviews on the given dataset. our trained model will get from  this drive link:
 https://drive.google.com/drive/folders/1L-vNC2BT_T7cUGw-G51Ekc4Qd2Z1pVfu?usp=sharing
 COMPARISION
